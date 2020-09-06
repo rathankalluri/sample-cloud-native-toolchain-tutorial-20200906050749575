@@ -4,7 +4,7 @@ This application is a simple Node.js [Express 4](http://expressjs.com/) sample t
 
 [DevOps](https://en.wikipedia.org/wiki/DevOps) is a methodology that aims to improve development and operational efficiencies while enhancing partnership with customers. DevOps is more than doing the same things faster; it establishes a delivery pipeline that spans from ideation to monitoring.  
 
-To start working from a DevOps approach, use the DevOps Tutorial Toolchain. You'll get a DevOps toolchain in [IBM&reg; Cloud Continuous Delivery](https://cloud.ibm.com/devops) that is built by using best of breed tools, deployed to [IBM Cloud](https://cloud.ibm.com), and has the foundation for test, scalability, and operations.
+To start working from a DevOps approach, use the DevOps Tutorial Toolchain. You'll get a DevOps toolchain in [IBM&reg; Cloud Continuous Delivery](https://cloud.ibm.com/devops) that is built by using best of breed tools, deployed to [IBM Cloud](https://cloud.ibm.com), and has the foundation for test, scalability, and operations. Just added an extra sentence to test
 
 Use this sample application with a DevOps toolchain ([template](https://github.com/open-toolchain/cloud-native-toolchain-tutorial)) !
 
